@@ -1,0 +1,5 @@
+{
+  "name": "Free Fall Physics Simulator",
+  "description": "A highly configurable physics simulation that demonstrates the principles of free fall, gravity, and air resistance. Adjust parameters like mass, height, and gravity to observe their effects on a falling object's velocity and displacement, visualized with real-time data and charts.",
+  "requestFramePermissions": []
+}
